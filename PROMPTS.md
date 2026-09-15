@@ -40,7 +40,9 @@ request in this conversation.
 MODE: FULL_ANALYSIS
 
 AS_OF_DATE: 2026-09-16
+
 MODEL_LABEL: CLAUDE_OPUS-5_MEDIUM
+
 MODEL_LABEL: OPENAI_GPT-5.6_SOL-HIGH
 
 Use the immediately preceding INTAKE_ONLY result as the authoritative
