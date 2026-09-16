@@ -2,6 +2,13 @@
 
 Recommended settings:
 
+STEP 1:
+
+Claude: Sonnet 5 / Medium
+OpenAI: Terra / Medium
+
+STEP 2:
+
 Claude: Opus 5 / Medium; use High for the complexity triggers above.
 OpenAI: Sol / High; test Medium later on uncomplicated issuers.
 
