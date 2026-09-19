@@ -16,7 +16,7 @@ OpenAI: Sol / High; test Medium later on uncomplicated issuers.
 
 MODE: INTAKE_ONLY
 
-AS_OF_DATE: 2026-09-18
+AS_OF_DATE: 2026-09-20
 
 Run only the canonical Intake and Readiness component.
 
@@ -46,7 +46,7 @@ request in this conversation.
 
 MODE: FULL_ANALYSIS
 
-AS_OF_DATE: 2026-09-18
+AS_OF_DATE: 2026-09-20
 
 MODEL_LABEL: CLAUDE_OPUS-5_HIGH
 
