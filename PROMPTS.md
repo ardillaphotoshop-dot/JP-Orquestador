@@ -17,17 +17,11 @@ OpenAI: Sol / High; test Medium later on uncomplicated issuers.
 
 ## STEP 1
 
+0000 Dummy
 MODE: INTAKE_ONLY
-
 AS_OF_DATE: 2026-09-28
-
 Run only the canonical Intake and Readiness component.
-
-Treat a supported `PARSER_VALID` financial handoff as already structurally
-and semantically validated by the parser. Do not validate it against the
-JSON Schema, re-derive canonical financial observations, or audit unaffected
-source series.
-
+Treat a supported `PARSER_VALID` financial handoff as already structurally and semantically validated by the parser. Do not validate it against the JSON Schema, re-derive canonical financial observations, or audit unaffected source series.
 Return the required one-page intake output:
 
 1. READINESS: READY | PARTIAL | NOT_READY
@@ -38,11 +32,8 @@ Return the required one-page intake output:
 6. Preliminary route/plugin activations
 7. FULL ANALYSIS MAY PROCEED | FULL ANALYSIS BLOCKED
 
-Do not perform Company Map classification, valuation, management scoring,
-peer research, scenario analysis, or memo generation.
-
-This intake result will be the authoritative upstream handoff for the next
-request in this conversation.
+Do not perform Company Map classification, valuation, management scoring, peer research, scenario analysis, or memo generation.
+This intake result will be the authoritative upstream handoff for the next request in this conversation.
 
 
 ## STEP 2
