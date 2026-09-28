@@ -1,3 +1,6 @@
+# Codex 
+RunJapanFast 6504.  If required, use escalated network access permissions to overcome workspace network access issues. If not possible to finish, research and find out where is the root cause.
+
 # JP-Orquestador prompt
 
 Recommended settings:
