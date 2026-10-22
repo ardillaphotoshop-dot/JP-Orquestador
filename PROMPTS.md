@@ -65,5 +65,32 @@ If the prior intake status was PARTIAL, address only the exceptions explicitly
 identified in that intake. Reopen an accepted intake conclusion only if new
 evidence creates a decision-critical contradiction.
 
+# US AI
+
+## STEP 1
+Analyse AVGO using the Orquestador AI framework. Stage 0 — Intake evaluation only.
+
+Follow the project instructions and source files. Apply all intake, applicability and readiness gates.
+
+Provide a concise Stage 0 assessment with an explicit Stage 1 handoff covering unresolved blockers, evidence limitations and analyst activation.
+
+Do not proceed to Stage 1.
+
+## STEP 2
+
+Run Stage 1 — Full analysis for AVGO, using the completed Stage 0 assessment and handoff.
+
+Follow the full Orquestador AI framework without repeating intake unless a material issue requires it.
+
+Deliver a single downloadable UTF-8 Markdown report in SUMMARY mode, with evidence ledger OFF.
+
+In the chat reply include only:
+- Report download link.
+- Current price/as-of date.
+- Compact 1y and 5y Bear/Base/Bull tables, including probabilities, returns and probability-weighted values.
+- Stance, conviction and attractive-entry range.
+- Concise investment memo summary.
+
+
 Create the final Markdown memo using the project output specification and the
 filename MODEL_LABEL supplied above.
