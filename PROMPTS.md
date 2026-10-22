@@ -68,9 +68,6 @@ evidence creates a decision-critical contradiction.
 # US AI
 
 ## STEP 1
-AS_OF_DATE: 2026-10-22
-MODEL_LABEL: CLAUDE_OPUS-5.5_MEDIUM
-MODEL_LABEL: OPENAI_GPT-6_SOL-HIGH
 
 Analyse AVGO using the Orquestador AI framework. Stage 0 — Intake evaluation only.
 
@@ -81,6 +78,12 @@ Provide a concise Stage 0 assessment with an explicit Stage 1 handoff covering u
 Do not proceed to Stage 1.
 
 ## STEP 2
+
+AS_OF_DATE: 2026-10-22
+
+MODEL_LABEL: CLAUDE_OPUS-5.5_MEDIUM
+
+MODEL_LABEL: OPENAI_GPT-6_SOL-HIGH
 
 Run Stage 1 — Full analysis for AVGO, using the completed Stage 0 assessment and handoff.
 
