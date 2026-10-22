@@ -68,6 +68,10 @@ evidence creates a decision-critical contradiction.
 # US AI
 
 ## STEP 1
+AS_OF_DATE: 2026-10-22
+MODEL_LABEL: CLAUDE_OPUS-5.5_MEDIUM
+MODEL_LABEL: OPENAI_GPT-6_SOL-HIGH
+
 Analyse AVGO using the Orquestador AI framework. Stage 0 — Intake evaluation only.
 
 Follow the project instructions and source files. Apply all intake, applicability and readiness gates.
