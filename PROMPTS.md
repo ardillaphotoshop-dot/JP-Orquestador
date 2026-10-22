@@ -79,11 +79,6 @@ Do not proceed to Stage 1.
 
 ## STEP 2
 
-AS_OF_DATE: 2026-10-22
-
-MODEL_LABEL: CLAUDE_OPUS-5.5_MEDIUM
-
-MODEL_LABEL: OPENAI_GPT-6_SOL-HIGH
 
 Run Stage 1 — Full analysis for AVGO, using the completed Stage 0 assessment and handoff.
 
@@ -99,5 +94,4 @@ In the chat reply include only:
 - Concise investment memo summary.
 
 
-Create the final Markdown memo using the project output specification and the
-filename MODEL_LABEL supplied above.
+Create the final Markdown memo using the project output specification.
