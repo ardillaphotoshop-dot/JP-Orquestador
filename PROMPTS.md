@@ -17,7 +17,7 @@ OpenAI: Sol / High; test Medium later on uncomplicated issuers.
 
 ## STEP 1
 
-4379 Photosynth
+8698 Monex Group, Inc
 MODE: INTAKE_ONLY
 AS_OF_DATE: 2026-10-30
 Run only the canonical Intake and Readiness component.
