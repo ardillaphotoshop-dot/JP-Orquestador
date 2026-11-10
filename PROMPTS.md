@@ -17,7 +17,7 @@ OpenAI: Sol / High; test Medium later on uncomplicated issuers.
 
 ## STEP 1
 
-5713 Sumitomo Metal Mining
+8801 Mitsui Fudosan Co., Ltd
 MODE: INTAKE_ONLY
 AS_OF_DATE: 2026-11-10
 Run only the canonical Intake and Readiness component.
