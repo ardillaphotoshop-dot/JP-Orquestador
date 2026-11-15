@@ -17,9 +17,9 @@ OpenAI: Sol / High; test Medium later on uncomplicated issuers.
 
 ## STEP 1
 
-6675 Saxa
+9503 The Kansai Electric Power
 MODE: INTAKE_ONLY
-AS_OF_DATE: 2026-11-12
+AS_OF_DATE: 2026-11-15
 Run only the canonical Intake and Readiness component.
 Treat a supported `PARSER_VALID` financial handoff as already structurally and semantically validated by the parser. Do not validate it against the JSON Schema, re-derive canonical financial observations, or audit unaffected source series.
 Return the required one-page intake output:
@@ -40,11 +40,11 @@ This intake result will be the authoritative upstream handoff for the next reque
 
 MODE: FULL_ANALYSIS
 
-AS_OF_DATE: 2026-11-12
+AS_OF_DATE: 2026-11-15
 
 MODEL_LABEL: FABLE-5.2_MEDIUM
 
-MODEL_LABEL: 6_SOL_6-HIGH
+MODEL_LABEL: SOL_6-HIGH
 
 Use the immediately preceding INTAKE_ONLY result as the authoritative
 completed output of `01_INTAKE_READINESS.md`.
