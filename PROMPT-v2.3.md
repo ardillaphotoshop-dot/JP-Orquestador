@@ -29,7 +29,7 @@ For a single message use MODE: AUTO with the same company, cutoff and attachment
 ```text
 9984 Softbank Group
 MODE: INTAKE_ONLY
-AS_OF_DATE: 2026-11-22
+AS_OF_DATE: 2026-11-23
 Use intake_brief.json and the one-page intake format in CORE_CONTRACT.md.
 ```
 
@@ -37,7 +37,7 @@ Use intake_brief.json and the one-page intake format in CORE_CONTRACT.md.
 
 ```text
 MODE: FULL_ANALYSIS
-AS_OF_DATE: 2026-11-22
+AS_OF_DATE: 2026-11-23
 MODEL_LABEL: OPUS SOL NEON
 Use the preceding accepted intake and its bounded search plan. Complete the applicable analysis and deliver the decision memo.
 ```
